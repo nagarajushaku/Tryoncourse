@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="20.172">
+ <testsuite name="oncourse login testcases " timestamp="2021-07-02T16:56:16" hostname="localhost" time="20.172" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="oncourse login testcases " name="TC_L001 navigate to the login page" time="15.689" />
+  <testcase classname="oncourse login testcases " name="TC_L002 click on sigin with out entering username and password" time="0.527" />
+  <testcase classname="oncourse login testcases " name="TC_L003 enter incorrect password" time="1.871" />
+  <testcase classname="oncourse login testcases " name="TC_L004 enter in-correct username" time="1.342" />
+  <testcase classname="oncourse login testcases " name="Tc_L005 Enter in-correct username and capture error message" time="0.742" />
+ </testsuite>
+</testsuites>
